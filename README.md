@@ -9,4 +9,4 @@ To summarise, gradient microstructures may be generated using a single photolith
 
 In this example, substrates with ramp-, thorn-, NACA0050-, dimple-, and torus-shaped gradient microstructures were fabricated by this means:  
 
-![1-s2 0-S0017931023006129-gr2_lrg](https://github.com/csalmean/PhotomaskGen_HKUST/assets/133036780/fa5c3ee6-7f66-4d4c-ab4d-b6dd219bb2fd)
+![1-s2 0-S0017931023006129-gr5](https://github.com/csalmean/PhotomaskGen_HKUST/assets/133036780/11d8d17c-0eaf-4d0c-bd55-0dd113fa029f)
